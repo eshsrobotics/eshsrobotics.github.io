@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://eshsrobotics.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://eshsrobotics.com/
+title: ESHS Robotics
+subtitle: Passionate youth exploring technology.
+author: ESHS Robotics
 simple_search: http://google.com/search
-description:
+description: Official website of the El Segundo High School Robotics Club.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
