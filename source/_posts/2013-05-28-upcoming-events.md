@@ -9,7 +9,7 @@ categories: marketing
 Open House
 ==========
 
-We're going to have our first annual open house this Wednesday (06.01.13). Stop by at our engineering lab if you're interested in learning more about robotics! 
+We're going to have our first annual open house this Wednesday (05.29.13). Stop by at our engineering lab if you're interested in learning more about robotics! 
 
 
 End of Year Party
