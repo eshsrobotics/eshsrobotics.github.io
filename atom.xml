@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[ESHS Robotics]]></title>
+  <link href="http://eshsrobotics.github.io/atom.xml" rel="self"/>
+  <link href="http://eshsrobotics.github.io/"/>
+  <updated>2013-06-06T02:08:33-07:00</updated>
+  <id>http://eshsrobotics.github.io/</id>
+  <author>
+    <name><![CDATA[ESHS Robotics]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[End of the Year Party]]></title>
+    <link href="http://eshsrobotics.github.io/blog/2013/06/05/end-of-the-year-party/"/>
+    <updated>2013-06-05T17:43:00-07:00</updated>
+    <id>http://eshsrobotics.github.io/blog/2013/06/05/end-of-the-year-party</id>
+    <content type="html"><![CDATA[<p>The Robotics 2012-13 year is coming to a close. Tonight we had a party for the members and mentors as well as parents and siblings! The whole team would like to thank all of our wonderful mentors for their time and dedication to the team and all of the helpful information they provided to us. We would also like to thank all of the memebers for their dedcation to the team- though sometimes it was tough- and their enthusiam and great attitudes. Again, Thanks! Have a great summer and hope you will continue to come!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Upcoming Events]]></title>
+    <link href="http://eshsrobotics.github.io/blog/2013/05/28/upcoming-events/"/>
+    <updated>2013-05-28T00:08:00-07:00</updated>
+    <id>http://eshsrobotics.github.io/blog/2013/05/28/upcoming-events</id>
+    <content type="html"><![CDATA[<h1>Open House</h1>
+
+<p>We&rsquo;re going to have our first annual open house this Wednesday (05.29.13). Stop by at our engineering lab if you&rsquo;re interested in learning more about robotics!</p>
+
+<h1>End of Year Party</h1>
+
+<p>We&rsquo;re going to be having our end of year party on 06.05.13. We invite all of our wonderful mentors and parents to join us for dinner at our engineering lab. We look forward to seeing you there!</p>
+
+<h1>Location</h1>
+
+<p>The school is located at 640 Main St, El Segundo, CA 90245.</p>
+
+<p><img src="http://eshsrobotics.github.io/images/blog/1.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Officer Roles 2013]]></title>
+    <link href="http://eshsrobotics.github.io/blog/2013/05/27/officer-roles-2013/"/>
+    <updated>2013-05-27T23:59:00-07:00</updated>
+    <id>http://eshsrobotics.github.io/blog/2013/05/27/officer-roles-2013</id>
+    <content type="html"><![CDATA[<ul>
+<li>Teacher Coach &ndash; Ms. Cho
+
+<ul>
+<li>Open/close the lab during lab hours</li>
+<li>Find STEM related opportunities for students (field trips, competitions, internships)</li>
+<li>Accountability of all students on field trips, competitions</li>
+<li>Elections (counting ballots, posting new officers)</li>
+<li>Final purchases for club (works with the Treasurer)</li>
+</ul>
+</li>
+<li>President – Max Woffard
+
+<ul>
+<li>Creating agenda items for Officer meetings</li>
+<li>Overseeing the club
+
+<ul>
+<li>Envisioning the future for the club (Business Plan)</li>
+<li>Signing-up, planning &amp; scheduling timelines for all competition (FRC, NG HSIC, Cyber Patriot, Chevron Design Challenge, Raytheon Games, Aerospace Corp Challenge, Real World Design Challenge, NASA Design Challenge)</li>
+<li>Making sure everyone has a task</li>
+<li>Helping  all leads</li>
+<li>Settling disputes</li>
+<li>Announcements</li>
+<li>Creating &amp; posting flyers for robotics club</li>
+<li>Creating Robotics club Informational PPTs</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Vice &ndash; President – Greta Studier
+
+<ul>
+<li>Overseeing the club when the President is not present
+
+<ul>
+<li>Making sure that all competitions are registered and prepared</li>
+<li>Making sure everyone has a task</li>
+<li>Helping all leads</li>
+<li>Settling disputes</li>
+<li>Mentoring program planning (big brother/sister)</li>
+<li>Newcomer project planning (experiment with each department)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Technical Lead – Zach Latta
+
+<ul>
+<li>Project management
+
+<ul>
+<li>Contact person for programming coaches</li>
+<li>Monitors activities/progress on Trello</li>
+<li>Recruits for members for programming</li>
+<li>Delegating tasks</li>
+</ul>
+</li>
+<li>Training/tutorials</li>
+<li>Communicate with other leads</li>
+<li>Organization of the all wires/computers &amp; upstairs room</li>
+<li>Webmaster</li>
+<li>FRC, Cyber Patriots, NGIC, Real World Challenge</li>
+</ul>
+</li>
+<li>Modeling Lead – Eric Richardson
+
+<ul>
+<li>Project management
+
+<ul>
+<li>Contact person for modeling coaches</li>
+<li>Monitors activities/progress on Trello</li>
+<li>Recruits for members for design</li>
+<li>Delegating tasks</li>
+</ul>
+</li>
+<li>Training/tutorials</li>
+<li>Communicate with other leads</li>
+<li>Organization of all files, Dropbox &amp; computers/tables/seats</li>
+<li>Full control over 3D printer</li>
+</ul>
+</li>
+<li>Build Lead – Christian Herr
+
+<ul>
+<li>Project management
+
+<ul>
+<li>Contact person for building coaches</li>
+<li>Monitors activities/progress on Trello.</li>
+<li>Recruits for members for build</li>
+</ul>
+</li>
+<li>Delegating task</li>
+<li>Training/tutorials</li>
+<li>Communicate with other leads</li>
+<li>Organization of all tools &amp; supply room</li>
+</ul>
+</li>
+<li>Treasurer/Fundraising – Kristen Virkler
+
+<ul>
+<li>Keeping track of excel file for all spending</li>
+<li>Organizing purchases for teacher to order</li>
+<li>Budgeting for each department</li>
+<li>Grant writing</li>
+<li>Writing the Bill of materials</li>
+<li>Fundraising
+
+<ul>
+<li>Working with sponsors</li>
+<li>Planning school activities/events</li>
+<li>Contacting parents for donations</li>
+<li>Planning fast food places for event (%) donations</li>
+<li>Organizing the for the Hometown Fair, Fourth of July festival</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Secretary – Michaelynn Welther
+
+<ul>
+<li>Database for student information (emailing, announcements)</li>
+<li>Attendance tracking</li>
+<li>Agenda of the day
+
+<ul>
+<li>Website Calendar</li>
+</ul>
+</li>
+<li>Paperwork with the school</li>
+<li>Coordinates Awards</li>
+<li>Organizing Elections</li>
+</ul>
+</li>
+<li>Marketing Lead – Raina Keller
+
+<ul>
+<li>Working with sponsors, mentors</li>
+<li>Planning with middle &amp; elementary schools</li>
+<li>Working with Link crew &amp; incoming members</li>
+<li>Posting flyers for robotics club</li>
+</ul>
+</li>
+<li>Historian – Avery Lin
+
+<ul>
+<li>Photos, Videos, Blog, Website Sections</li>
+<li>FRC &mdash; Chairman’s Awards</li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Obligatory First Post]]></title>
+    <link href="http://eshsrobotics.github.io/blog/2013/05/18/obligatory-first-post/"/>
+    <updated>2013-05-18T01:08:00-07:00</updated>
+    <id>http://eshsrobotics.github.io/blog/2013/05/18/obligatory-first-post</id>
+    <content type="html"><![CDATA[<p>The beginning of a bright future!</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: general | ESHS Robotics]]></title>
+  <link href="http://eshsrobotics.github.io/blog/categories/general/atom.xml" rel="self"/>
+  <link href="http://eshsrobotics.github.io/"/>
+  <updated>2013-06-06T02:08:33-07:00</updated>
+  <id>http://eshsrobotics.github.io/</id>
+  <author>
+    <name><![CDATA[ESHS Robotics]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[End of the Year Party]]></title>
+    <link href="http://eshsrobotics.github.io/blog/2013/06/05/end-of-the-year-party/"/>
+    <updated>2013-06-05T17:43:00-07:00</updated>
+    <id>http://eshsrobotics.github.io/blog/2013/06/05/end-of-the-year-party</id>
+    <content type="html"><![CDATA[<p>The Robotics 2012-13 year is coming to a close. Tonight we had a party for the members and mentors as well as parents and siblings! The whole team would like to thank all of our wonderful mentors for their time and dedication to the team and all of the helpful information they provided to us. We would also like to thank all of the memebers for their dedcation to the team- though sometimes it was tough- and their enthusiam and great attitudes. Again, Thanks! Have a great summer and hope you will continue to come!</p>
+]]></content>
+  </entry>
+  
+</feed>

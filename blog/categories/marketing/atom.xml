@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: marketing | ESHS Robotics]]></title>
+  <link href="http://eshsrobotics.github.io/blog/categories/marketing/atom.xml" rel="self"/>
+  <link href="http://eshsrobotics.github.io/"/>
+  <updated>2013-06-06T02:08:33-07:00</updated>
+  <id>http://eshsrobotics.github.io/</id>
+  <author>
+    <name><![CDATA[ESHS Robotics]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Upcoming Events]]></title>
+    <link href="http://eshsrobotics.github.io/blog/2013/05/28/upcoming-events/"/>
+    <updated>2013-05-28T00:08:00-07:00</updated>
+    <id>http://eshsrobotics.github.io/blog/2013/05/28/upcoming-events</id>
+    <content type="html"><![CDATA[<h1>Open House</h1>
+
+<p>We&rsquo;re going to have our first annual open house this Wednesday (05.29.13). Stop by at our engineering lab if you&rsquo;re interested in learning more about robotics!</p>
+
+<h1>End of Year Party</h1>
+
+<p>We&rsquo;re going to be having our end of year party on 06.05.13. We invite all of our wonderful mentors and parents to join us for dinner at our engineering lab. We look forward to seeing you there!</p>
+
+<h1>Location</h1>
+
+<p>The school is located at 640 Main St, El Segundo, CA 90245.</p>
+
+<p><img src="/images/blog/1.jpg"></p>
+]]></content>
+  </entry>
+  
+</feed>
